@@ -1,2 +1,3 @@
-# ADMISSION-FORM.HTML![2022-09-28 (2)](https://user-images.githubusercontent.com/114161888/192732868-6ce4a1f1-7fab-4725-9f22-dd761952c8a3.png)
-![2022-09-28 (3)](https://user-images.githubusercontent.com/114161888/192732918-b1ddf3c2-056f-493f-a1fb-ee55987c9ee4.png)
+
+![screencapture-file-C-Users-Nagekar-Jatin-OneDrive-Desktop-ADMISSION-FORM-HTML-index-html-2022-10-09-12_08_26](https://user-images.githubusercontent.com/114161888/194742092-29eafd6b-855a-4eb4-81c4-a0037871e36d.png)
+![2022-09-28 (3)](https://user-images.githubusercontent.com/114161888/194742113-f42b02ca-fd97-4bd1-9bb1-8772e4c8c8d4.png)
